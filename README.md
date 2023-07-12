@@ -13,6 +13,7 @@
   - Cloudinary Account
     
   ## Docker Hub Instruction for Windows
+  **Be sure to update the application.properties file with your database credentials**
   1. Run the following commands in your terminal:
   ```
   ./mvnw clean package
